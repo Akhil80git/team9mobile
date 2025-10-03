@@ -26,8 +26,8 @@ body {
 }
 
 .redmi-box {
-  width: 21.2mm;
-  height: 164mm;
+  width: 81.2mm;
+  height: 178mm;
   border: 2px solid #e57535;
   border-radius: 2px 2px 12px 12px; /* top-left, top-right, bottom-right, bottom-left */
   box-sizing: border-box;
